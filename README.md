@@ -1,3 +1,1 @@
-## 👋I am, Mayuresh
-
-## I am a Software Developer
+I write code 
